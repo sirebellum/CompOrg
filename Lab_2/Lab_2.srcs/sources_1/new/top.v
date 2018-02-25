@@ -7,7 +7,7 @@ module pFulladder(
     );
     
     assign g = a & b; //generate bit
-    assign p = a ^ b; //propagate bit
+    assign p = a ^ b; //propagate bit (un-exlusive OR was providing incorrect behavior)
     assign sum = p ^ cin;
     
 endmodule //END PARTIAL FULL ADDER
