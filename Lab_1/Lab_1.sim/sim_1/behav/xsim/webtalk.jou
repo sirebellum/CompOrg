@@ -2,8 +2,8 @@
 # Webtalk v2017.4 (64-bit)
 # SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
 # IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
-# Start of session at: Mon Feb  5 11:50:01 2018
-# Process ID: 16732
+# Start of session at: Fri Mar  9 15:02:41 2018
+# Process ID: 6788
 # Current directory: C:/Users/temp/gits/CompOrg/Lab_1/Lab_1.sim/sim_1/behav/xsim
 # Command line: wbtcv.exe -mode batch -source C:/Users/temp/gits/CompOrg/Lab_1/Lab_1.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace
 # Log file: C:/Users/temp/gits/CompOrg/Lab_1/Lab_1.sim/sim_1/behav/xsim/webtalk.log
